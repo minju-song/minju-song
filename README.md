@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=200&section=header&text=Hello!%20I'm%20Minju&fontSize=70&animation=fadeIn&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=200&section=header&text=Hello!%20I'm%20Minju&fontSize=70&animation=fadeIn&fontColor=ffffff&stroke=0d0d0d)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minju-song&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minju-song&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
