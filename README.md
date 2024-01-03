@@ -1,11 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=150&section=header&text=Hello!%20I'm%20Minju&fontSize=70&animation=fadeIn&fontColor=ffffff)
 
 <div align="center">
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minju-song&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-    [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minju-song&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-    [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=songjaeskkk)](https://solved.ac/songjaeskkk)
-<div>
-<div align="center">
+    <div>
+        [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minju-song&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+        [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minju-song&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+        [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=songjaeskkk)](https://solved.ac/songjaeskkk)
+    </div>
     <details>
         <summary><h1>💗프로젝트 소개💗</h1></summary>
         <div markdown="1">
