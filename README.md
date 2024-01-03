@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=150&section=header&text=Hello!%20I'm%20Minju&fontSize=70&animation=fadeIn&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=150&section=header&text=SongMinJu&fontSize=70&animation=fadeIn&fontColor=ffffff)
 
 <div align="center">
     <h2>✨Skills</h2>
