@@ -2,9 +2,9 @@
 
 <div align="center">
     <div>
-        [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minju-song&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-        [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minju-song&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-        [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=songjaeskkk)](https://solved.ac/songjaeskkk)
+        <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minju-song&layout=compact&theme=radical" /></a>
+        <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=minju-song&show_icons=true&theme=radical" /></a>
+        <a href="https://solved.ac/songjaeskkk"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=songjaeskkk" /></a>
     </div>
     <details>
         <summary><h1>💗프로젝트 소개💗</h1></summary>
