@@ -2,7 +2,6 @@
 
 <div align="center">
     <h2>✨Skills</h2>
-    <hr>
     <h4>💫Front  
         <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
         <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -20,12 +19,10 @@
     </h4>
     <br>
     <h2>📊Github Stats</h2>
-    <hr>
     <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=minju-song&show_icons=true&theme=radical" /></a>
     <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minju-song&layout=compact&theme=radical" /></a>
     <br>
-    <h2>❗Problem Solving</h2>
-    <hr>
+    <h2>💪Problem Solving</h2>
     <a href="https://solved.ac/songjaeskkk"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=songjaeskkk" /></a>
     
   
