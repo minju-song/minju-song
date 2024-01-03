@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=shark&color=gradient&height=50&section=header)
+![header](https://capsule-render.vercel.app/api?type=shark&color=gradient&height=100&section=header)
 
 <div align="center">
     <img src="https://github.com/minju-song/minju-song/assets/97097194/24e8cd27-65aa-4ba5-9798-a0bd625b900c"/>
