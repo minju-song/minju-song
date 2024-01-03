@@ -1,6 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=150&section=header&text=MinJu&fontSize=70&animation=fadeIn&fontColor=ffffff)
 
 <div align="center">
+    <img src="https://github.com/minju-song/minju-song/assets/97097194/24e8cd27-65aa-4ba5-9798-a0bd625b900c"/>
     <h2>✨Skills</h2>
     <h4> 
         <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
