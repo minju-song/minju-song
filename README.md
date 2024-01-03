@@ -1,8 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=150&section=header&text=Hello!%20I'm%20Minju&fontSize=70&animation=fadeIn&fontColor=ffffff)
 <div align="center">
-
 <h2>Hello I'm Minju</h2>
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fminju-song&count_bg=%2398D6F9&title_bg=%23F380B5&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minju-song&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minju-song&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=songjaeskkk)](https://solved.ac/songjaeskkk)
