@@ -22,9 +22,6 @@
     <h2>📊Github Stats</h2>
     <hr>
     <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=minju-song&show_icons=true&theme=radical" /></a>
-    <br>
-    <h2>🥇Most Used Languages</h2>
-    <hr>
     <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minju-song&layout=compact&theme=radical" /></a>
     <br>
     <h2>❗Problem Solving</h2>
