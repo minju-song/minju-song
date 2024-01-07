@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=shark&color=gradient&height=100&section=header)
 
 <div align="center">
-    <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fminju-song&count_bg=%23FFA2D1&title_bg=%23FFDDE8&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+    <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fminju-song&count_bg=%23FFA2D1&title_bg=%23FFDDE8&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a><br>
     <img src="https://github.com/minju-song/minju-song/assets/97097194/24e8cd27-65aa-4ba5-9798-a0bd625b900c"/>
     <h2>✨Skills</h2>
     <h4> 
