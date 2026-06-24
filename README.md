@@ -1,22 +1,15 @@
- <div align="center">
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=minju-song&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=
-  Backend%20Developer&descAlignY=52&descAlign=50"/>
-
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=4F86F7&center=true&vCenter=true&random=false&width=520&lines=Backend+Developer+%F0%9F%9A%80;Kotlin+%7C+Sp
-  ring+Boot+%7C+PostgreSQL;Modular+Monolith+Architecture;Event-Driven+%7C+Concurrency+Control+%7C+SSE" alt="Typing SVG" />
-  </a>
-
-  <br/>
+  <h1>👋 송민주 · Minju Song</h1>
+  <h3>Backend Developer</h3>
 
   <p>
   물류 ERP 시스템을 기획부터 설계·개발까지 전 과정에 참여한 백엔드 개발자입니다.<br/>
-  실서비스 수준의 동시성 제어, 이벤트 기반 아키텍처, SSE 실시간 시스템을 직접 설계하고 구축했습니다.
+  동시성 제어, 이벤트 기반 아키텍처, SSE 실시간 시스템을 직접 설계하고 구축했습니다.
   </p>
 
   <a href="mailto:songjaeskkk@naver.com">
-    <img src="https://img.shields.io/badge/Gmail-songjaeskkk@naver.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-songjaeskkk@naver.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
 
   <br/><br/>
@@ -108,9 +101,5 @@
 
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=minju-song&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minju-song&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&hide=html,css"/>
-
-  <br/>
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
 
   </div>
